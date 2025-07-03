@@ -30,7 +30,7 @@ Despite these challenges, I wanted to see how far I could go in modeling the gam
 - ✅ Turn system with action-chaining and pass mechanics  
 - ✅ Character switching, dice spending, and elemental reactions  
 - ✅ Statuses: Frozen, Stun, Shield, Burning, etc.  
-- ⚙️ Minimax engine with position evaluation (WIP)  
+- ⚙️ Minimax engine with higher depth (WIP)  
 - 📊 Probabilistic reasoning (planned)
 
 ---
@@ -42,6 +42,5 @@ Despite these challenges, I wanted to see how far I could go in modeling the gam
 - Implementing **partial information** (opponent’s hand/deck)  
 - Designing a **heuristic evaluation function** for highly dynamic board states  
 - Simulating turns where players don't alternate cleanly  
-- Modeling **game-ending conditions** with interrupts and bursts
 
 ---
